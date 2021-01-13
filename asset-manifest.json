@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/puzzle-app/static/css/main.461118ad.chunk.css",
+    "main.js": "/puzzle-app/static/js/main.65d67ff3.chunk.js",
+    "main.js.map": "/puzzle-app/static/js/main.65d67ff3.chunk.js.map",
+    "runtime-main.js": "/puzzle-app/static/js/runtime-main.6c212bf1.js",
+    "runtime-main.js.map": "/puzzle-app/static/js/runtime-main.6c212bf1.js.map",
+    "static/js/2.b59ebbbc.chunk.js": "/puzzle-app/static/js/2.b59ebbbc.chunk.js",
+    "static/js/2.b59ebbbc.chunk.js.map": "/puzzle-app/static/js/2.b59ebbbc.chunk.js.map",
+    "index.html": "/puzzle-app/index.html",
+    "static/css/main.461118ad.chunk.css.map": "/puzzle-app/static/css/main.461118ad.chunk.css.map",
+    "static/js/2.b59ebbbc.chunk.js.LICENSE.txt": "/puzzle-app/static/js/2.b59ebbbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c212bf1.js",
+    "static/js/2.b59ebbbc.chunk.js",
+    "static/css/main.461118ad.chunk.css",
+    "static/js/main.65d67ff3.chunk.js"
+  ]
+}
