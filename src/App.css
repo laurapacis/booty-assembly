@@ -1,0 +1,73 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-weight: lighter;
+  font-size: 2rem;
+
+  background: rgb(110, 255, 143);
+  background: linear-gradient(
+    315deg,
+    rgba(110, 255, 143, 1) 0%,
+    rgba(255, 180, 245, 1) 15%,
+    rgba(215, 255, 213, 1) 100%
+  );
+  color: #554340;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  margin: 3rem auto;
+  background-color: rgb(255, 255, 255, 0.3);
+  padding: 3rem 5rem 2rem 5rem;
+  border-radius: 2rem;
+  border: lime solid 1px;
+  align-items: center;
+}
+
+h1 {
+  text-shadow: 2px 2px 1px chartreuse;
+  font-family: "Tangerine", cursive;
+  font-size: 5.7rem;
+  font-weight: 700;
+  color: #33003a;
+}
+
+.tiles-container {
+  margin: 2rem auto;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  margin: -0.25rem;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+footer a {
+  color: inherit;
+}
+
+footer a:hover {
+  color: #7f69a2;
+}
