@@ -5,7 +5,7 @@ const Footer = () => {
         <footer>
             <p>
                 <a href="https://github.com/laurapacis" target={"_blank"} rel="noreferrer">laurapacis</a> © 2021<br></br>
-                View on <a href="https://github.com/laurapacis/puzzle-app" target={"_blank"} rel="noreferrer">GitHub</a>
+                View on <a href="https://laurapacis.github.io/puzzle-app/" target={"_blank"} rel="noreferrer">GitHub</a>
             </p>
         </footer>
     )
