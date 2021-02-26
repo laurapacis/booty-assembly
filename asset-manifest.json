@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/puzzle-app/static/css/main.461118ad.chunk.css",
-    "main.js": "/puzzle-app/static/js/main.8c4447fb.chunk.js",
-    "main.js.map": "/puzzle-app/static/js/main.8c4447fb.chunk.js.map",
-    "runtime-main.js": "/puzzle-app/static/js/runtime-main.a804f7f0.js",
-    "runtime-main.js.map": "/puzzle-app/static/js/runtime-main.a804f7f0.js.map",
-    "static/js/2.ae6bd186.chunk.js": "/puzzle-app/static/js/2.ae6bd186.chunk.js",
-    "static/js/2.ae6bd186.chunk.js.map": "/puzzle-app/static/js/2.ae6bd186.chunk.js.map",
-    "index.html": "/puzzle-app/index.html",
-    "static/css/main.461118ad.chunk.css.map": "/puzzle-app/static/css/main.461118ad.chunk.css.map",
-    "static/js/2.ae6bd186.chunk.js.LICENSE.txt": "/puzzle-app/static/js/2.ae6bd186.chunk.js.LICENSE.txt"
+    "main.css": "/booty-assembly/static/css/main.461118ad.chunk.css",
+    "main.js": "/booty-assembly/static/js/main.fa0831d5.chunk.js",
+    "main.js.map": "/booty-assembly/static/js/main.fa0831d5.chunk.js.map",
+    "runtime-main.js": "/booty-assembly/static/js/runtime-main.44982ca0.js",
+    "runtime-main.js.map": "/booty-assembly/static/js/runtime-main.44982ca0.js.map",
+    "static/js/2.b69ccca5.chunk.js": "/booty-assembly/static/js/2.b69ccca5.chunk.js",
+    "static/js/2.b69ccca5.chunk.js.map": "/booty-assembly/static/js/2.b69ccca5.chunk.js.map",
+    "index.html": "/booty-assembly/index.html",
+    "static/css/main.461118ad.chunk.css.map": "/booty-assembly/static/css/main.461118ad.chunk.css.map",
+    "static/js/2.b69ccca5.chunk.js.LICENSE.txt": "/booty-assembly/static/js/2.b69ccca5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a804f7f0.js",
-    "static/js/2.ae6bd186.chunk.js",
+    "static/js/runtime-main.44982ca0.js",
+    "static/js/2.b69ccca5.chunk.js",
     "static/css/main.461118ad.chunk.css",
-    "static/js/main.8c4447fb.chunk.js"
+    "static/js/main.fa0831d5.chunk.js"
   ]
 }
